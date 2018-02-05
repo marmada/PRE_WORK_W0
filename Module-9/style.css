@@ -1,0 +1,41 @@
+
+h1 {
+text-align: center
+}
+.red {
+    color: red
+}
+.green {
+    color: green
+}
+.blue {
+    color: blue
+}
+.BIG {
+    font-size: 60px
+}
+
+.tiny {
+    font-size: 10px
+}
+.center {
+    text-align: center
+}
+.bold {
+    font-weight: bold
+}
+.newfont {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.multiple {
+    font-size: 60px;
+    color: orange;
+    font-weight: bold
+}
+.styledFont {
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#styledImage {
+    border: 20px solid orange    
+}

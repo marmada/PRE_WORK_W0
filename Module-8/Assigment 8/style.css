@@ -1,0 +1,28 @@
+.title {
+	background-color: #A3E4D7;
+	text-align: center;
+	border-style:solid; 
+	font-size:50px;
+}
+#cutepic {
+	style:center;
+	width:675px;
+	height:450px;	
+	border: solid black 25px;
+	border-radius: 10px
+	
+}
+
+h1 {
+	color:black;
+	text-align:center;
+	
+}
+
+p, h1, h2, h3, h4, li {
+	font-family: 'Oswald', serif;
+	text-align: justify;
+}
+
+
+

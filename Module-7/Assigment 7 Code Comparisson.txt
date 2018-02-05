@@ -1,0 +1,30 @@
+
+Line 18
+
+Line 19
+GC: <h1>Grumpy Cat Fan Page!</h1>
+BD: Boo The Dog Fan Page!
+
+BD: Line 21-34 instructions - remove
+
+missing <p> on line 8
+Missing Line 30 & 31, 33 & 34, 36 & 37
+</p> 
+<p>
+
+Missing Link HTML reference on line 38, and web link incorrect https://en.wikipedia.org/wiki/Boo_(dog), when it should be https://en.wikipedia.org/wiki/Boo_dog
+
+Missing </p> on line 39
+Lines 43-46 not formated as they should
+Line 47 missing opening < & >
+Lines 48-52 missformated
+Line 56 & 57, missing code
+59 & 60
+61,62,63 missing code & br
+65 missing reference to image
+
+- Click the button for a random Boo fact! - JS funtion was not organized and variables did not match the code in HTML call
+
+Pink, green, Orange funtion in js was faulty, fix the code
+Line 75 to 83 were missing format, hence box was misplaced
+
